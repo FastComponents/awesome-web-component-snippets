@@ -1,5 +1,7 @@
 # Awesome Web Component Snippets
 
+- [VS Code Web Component Snippets](https://marketplace.visualstudio.com/items?itemName=LuceStudio.web-component-snippets)
+
 ## Async interface for enqueuing callbacks that run at microtask timing
 
 ```js

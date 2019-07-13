@@ -1,4 +1,4 @@
-# Awesome Web Components Snippets
+# Awesome Web Component Snippets
 
 ## Async interface for enqueuing callbacks that run at microtask timing
 
